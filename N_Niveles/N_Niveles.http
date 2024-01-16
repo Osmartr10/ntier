@@ -1,0 +1,6 @@
+@N_Niveles_HostAddress = http://localhost:5038
+
+GET {{N_Niveles_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

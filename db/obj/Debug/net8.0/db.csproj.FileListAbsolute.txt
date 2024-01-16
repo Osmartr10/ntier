@@ -1,0 +1,14 @@
+C:\Users\jhona\source\repos\N_Niveles\db\bin\Debug\net8.0\db.deps.json
+C:\Users\jhona\source\repos\N_Niveles\db\bin\Debug\net8.0\db.runtimeconfig.json
+C:\Users\jhona\source\repos\N_Niveles\db\bin\Debug\net8.0\db.dll
+C:\Users\jhona\source\repos\N_Niveles\db\bin\Debug\net8.0\db.pdb
+C:\Users\jhona\source\repos\N_Niveles\db\obj\Debug\net8.0\db.csproj.AssemblyReference.cache
+C:\Users\jhona\source\repos\N_Niveles\db\obj\Debug\net8.0\db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\source\repos\N_Niveles\db\obj\Debug\net8.0\db.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\N_Niveles\db\obj\Debug\net8.0\db.AssemblyInfo.cs
+C:\Users\jhona\source\repos\N_Niveles\db\obj\Debug\net8.0\db.csproj.CoreCompileInputs.cache
+C:\Users\jhona\source\repos\N_Niveles\db\obj\Debug\net8.0\db.dll
+C:\Users\jhona\source\repos\N_Niveles\db\obj\Debug\net8.0\refint\db.dll
+C:\Users\jhona\source\repos\N_Niveles\db\obj\Debug\net8.0\db.pdb
+C:\Users\jhona\source\repos\N_Niveles\db\obj\Debug\net8.0\db.genruntimeconfig.cache
+C:\Users\jhona\source\repos\N_Niveles\db\obj\Debug\net8.0\ref\db.dll
